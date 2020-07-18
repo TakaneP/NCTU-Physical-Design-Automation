@@ -1,0 +1,14 @@
+How to execute:
+	1. Put all my files in a local directory
+	2. $ make clean
+	3. $ make
+	4. Lab2 executable binary will be generated
+	5. ./Lab2 [path to input file]
+	6. Output file is output.txt
+
+If you want to re-compile:
+	1. $ make clean
+	2. $ make
+
+If you want to execute the binary in ZIP file directly, you need to use "chmod" command give it right to execute.
+Ex: $ chmod 770 Lab2
