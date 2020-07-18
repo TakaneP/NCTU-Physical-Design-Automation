@@ -1,0 +1,9 @@
+Based on abacus
+How to compile and execute:
+	1. Put all my files in a local directory
+	2. Put the input.pl, input.scl and input.node in the same directory as input.aux
+	3. $ make
+	4. Lab4 executable binary will be generated
+	5. ./Lab4 [input.aux]   // You can either use like 1 ./Lab4 adaptec1.aux   or  2 ./Lab4 testcase/adaptec1/adaptec1.aux 
+	6. All the arguments must be specified. If you lost one of them the program will print an error message and exit.
+

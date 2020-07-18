@@ -1,0 +1,8 @@
+Based on Greedy route
+How to compile and execute:
+	1. Put all my files in a local directory
+	2. $ make
+	3. Lab5 executable binary will be generated
+	4. ./Lab5 [case path]   // like ./Lab5 case\ 1.txt  
+	5. All the arguments must be specified. If you lost one of them the program will print an error message and exit.
+
