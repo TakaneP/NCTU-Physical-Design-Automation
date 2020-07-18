@@ -1,0 +1,7 @@
+How to execute:
+	1. Put all my files in a local directory
+	2. $ make
+	3. Lab2 executable binary will be generated
+	4. ./Lab2 [path to input file]
+	5. Output file is output.txt
+
