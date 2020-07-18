@@ -1,0 +1,10 @@
+Fixed outlined floorplanning
+Based on sequnence pair and optimization proposed in https://ieeexplore.ieee.org/document/969434
+
+How to compile and execute:
+	1. Put all my files in a local directory
+	2. $ make
+	3. lab3 executable binary will be generated
+	4. ./lab3 [alpha value] [path to block file] [path to net file] [output file name]
+	5. All the arguments must be specified. If you lost one of them the program will print an error message and exit.
+
